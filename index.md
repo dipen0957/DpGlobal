@@ -1,8 +1,10 @@
 # I have found a business that works the way we want to work.
 
+![Dipen Patel](dp.jpeg)
+
 ### We work in partnership with the top brands in today's marketplace.
 
-We make our customers' lives simpler with the convenience of online shopping. We offer exclusive products from the industry leader in the online health and beauty market. We also enjoy a close affiliation with major national brands, including Dell™, Disney™, and many more.
+We make our customers' lives simpler with the convenience of online shopping. We offer exclusive products from the industry leader in the online health and beauty market. We also enjoy a close affiliation with major national brands, including Dell™, Apple™, and many more.
 
 ### Our business runs on a patented auto-replenishment system.
 
